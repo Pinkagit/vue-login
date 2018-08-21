@@ -1,6 +1,6 @@
 # login-module
 
-> A Vue.js project
+> A Vue.js project (Element + vue + nodejs + mongodb)
 
 ## Build Setup
 
